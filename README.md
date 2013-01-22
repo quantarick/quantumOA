@@ -1,7 +1,7 @@
 quantumOA
 =========
 
-The quantum OA System.
+The QUANTUM OA System.
 
 This system is based on .Net and provide following functionalities:
 
